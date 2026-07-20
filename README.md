@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-karnati&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-karnati" /> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Python,Java,HTML**
+- 🌱 I’m currently learning **Python,EDA,Power BI,SQL**
 
-- 👯 I’m looking to collaborate on **AI**
+- 👯 I’m looking to collaborate on **Data Science**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Data Science**
 
 - 📫 How to reach me **sujithkarnati321@gmail.com**
 
